@@ -4,7 +4,7 @@ A basic starter template for vanilla javascript using webpack bundler.
 
 ## Technology Stack
 
-- :package: [Webpack](https://webpack.js.org/) - is a JavaScript library for building User Interfaces.
+- :package: [Webpack](https://webpack.js.org/) - for bundling the JS files.
 
 ### Instructions
 
